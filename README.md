@@ -33,4 +33,5 @@
 </div>
   </div>
   
-![Snake animation](https://github.com/valdenicio22/valdenicio22/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/valdenicio22/valdenicio22/blob/output/github-contribution-grid-snake.svg)
+ -->
