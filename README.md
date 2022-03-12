@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋 I'm Valdenício Ferreira</h2>
 
 <p>🚀 About me</p>
-<p>🐱‍💻 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...</p>
-<p>🤖 I’m currently on career transition.</p>
-<p>👨‍🎓 Student at Bootcamp Ignite on the trail of React.js</p>
+<p>👨‍💻 I'm a web developing student, mainly focused on frontend technologies such as: React.js, TypeScript, Next.js, and Styled-Components</p>
+<p>💼 I’m currently on career transition.</p>
+<p>📚 Student at Bootcamp Ignite on the trail of React.js</p>
 <p>💬 Any help or tips is always welcome!</p>
 
 
