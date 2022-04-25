@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋 I'm Valdenício Ferreira</h2>
 
 <p>🚀 About me</p>
-<p>👨‍💻 I'm a web developing student, mainly focused on frontend technologies such as: React.js, TypeScript, Next.js, and Styled-Components</p>
+<p>👨‍💻 I'm a web developing student, mainly focused on frontend technologies such as: TypeScript, React.js, Next.js and Styled-Components</p>
 <p>💼 I’m currently on career transition.</p>
-<p>📚 Student at Bootcamp Ignite on the trail of React.js</p>
+<p>📚 Student on React.js path at Ignite Bootcamp</p>
 <p>💬 Any help or tips is always welcome!</p>
 
 
@@ -14,11 +14,8 @@
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <div>  
