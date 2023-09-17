@@ -2,7 +2,7 @@
 
 <p>🚀 About me</p>
 <p>👨‍💻 I'm a web developer, mainly focused on frontend technologies such as: TypeScript, React.js, Next.js and Styled-Components.</p>
-<p>📚 Student on React.js path at Ignite Bootcamp.</p>
+<p>📚 Student on Frontend path at Ignite Bootcamp.</p>
 <p>👨‍💼 You can check my projects <a href="https://valdenicio22.vercel.app/" target="_blank">🔗 here.</a></p>
 <p>💬 Any help or tips are always welcome!</p>
 
